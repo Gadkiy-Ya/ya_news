@@ -1,8 +1,6 @@
 import pytest
-# from http import HTTPStatus
 
 from django.urls import reverse
-# from django.utils import timezone
 
 from yanews import settings
 from news.forms import CommentForm
